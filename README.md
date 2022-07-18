@@ -98,10 +98,13 @@ I am a second year Cyber Security Ph.D. candidate at [Institude Superior of Info
 **HackerMood/HackerMood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## All Certification:
-![](c++.PNG | width=100)
-<img src="c++.PNG" width="100" height="100">
-![img](essen.PNG | width=100)
-![img](introcy.PNG | width=100)
+
+
+<img src="c++.PNG" width="300" height="300">
+<img src="essen.PN" width="300" height="300">
+<img src="introcy.PNG" width="300" height="300">
+<img src="js.PNG" width="300" height="300">
+<img src="linux.PNG" width="300" height="300">
 
 Here are some ideas to get you started:
 
