@@ -99,6 +99,7 @@ I am a second year Cyber Security Ph.D. candidate at [Institude Superior of Info
 
 ## All Certification:
 ![](c++.PNG | width=100)
+<img src="c++.PNG" width="100" height="100">
 ![img](essen.PNG | width=100)
 ![img](introcy.PNG | width=100)
 
