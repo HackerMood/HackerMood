@@ -100,11 +100,11 @@ I am a second year Cyber Security Ph.D. candidate at [Institude Superior of Info
 ## All Certification:
 
 
-<img src="c++.PNG" width="300" height="300">
-<img src="essen.PN" width="300" height="300">
-<img src="introcy.PNG" width="300" height="300">
-<img src="js.PNG" width="300" height="300">
-<img src="linux.PNG" width="300" height="300">
+<img src="c++.PNG" width="700" height="400">
+<img src="essen.PNG" width="700" height="400">
+<img src="introcy.PNG" width="700" height="400">
+<img src="js.PNG" width="700" height="400">
+<img src="linux.PNG" width="700" height="400">
 
 Here are some ideas to get you started:
 
