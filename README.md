@@ -98,7 +98,7 @@ I am a second year Cyber Security Ph.D. candidate at [Institude Superior of Info
 **HackerMood/HackerMood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## All Certification:
-![img](c++.PNG | width=100)
+![](c++.PNG | width=100)
 ![img](essen.PNG | width=100)
 ![img](introcy.PNG | width=100)
 
